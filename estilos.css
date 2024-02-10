@@ -1,0 +1,33 @@
+/* no existe -declarar basico */
+/* QUE ESTE DOCUMENTO ESTA RELACIONADO */
+/* INDEX.HTML */
+
+/* declaro por tag */
+body {
+  background-color: green;
+}
+
+h2 {
+  color: brown;
+  font-size: 30px;
+  border: solid red;
+}
+
+/* decalro por clase  */
+.subtitulo {
+  color: yellow;
+  border: none;
+  font-size: 35px;
+}
+
+.texto-nuevo {
+  color: aqua;
+  font-size: 35px;
+}
+
+/*  declaro por id */
+
+#section1 {
+  color: red;
+  font-size: 30px;
+}
