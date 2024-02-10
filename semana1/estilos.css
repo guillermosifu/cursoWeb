@@ -4,18 +4,27 @@
 
 /* declaro por tag */
 body {
-  background-color: green;
+  background-color: #7bf10b;
+  margin: 50px;
+  text-align: center;
+}
+
+h1 {
+  border: solid red;
+  text-align: center;
+  margin: 100px;
+  padding-bottom: 15px;
 }
 
 h2 {
-  color: brown;
+  color: red;
   font-size: 30px;
   border: solid red;
 }
 
 /* decalro por clase  */
 .subtitulo {
-  color: yellow;
+  color: gray;
   border: none;
   font-size: 35px;
 }
@@ -30,4 +39,8 @@ h2 {
 #section1 {
   color: red;
   font-size: 30px;
+}
+
+span {
+  border: solid red;
 }
